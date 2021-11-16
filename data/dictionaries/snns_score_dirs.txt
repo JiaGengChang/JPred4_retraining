@@ -1,0 +1,14 @@
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val1/score_valid2.csv
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val1/score_valid1.csv
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val2/score_valid2.csv
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val2/score_valid1.csv
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val3/score_valid2.csv
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val3/score_valid1.csv
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val4/score_valid2.csv
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val4/score_valid1.csv
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val5/score_valid2.csv
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val5/score_valid1.csv
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val6/score_valid2.csv
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val6/score_valid1.csv
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val7/score_valid1.csv
+/homes/adrozdetskiy/Projects/JnetDatasets/Jnet_training_output_v2/cross-val7/score_valid2.csv

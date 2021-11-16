@@ -1,0 +1,14 @@
+/*********************************************************
+  pssma1.h
+  --------------------------------------------------------
+  generated at Wed Aug  6 00:23:28 2014
+  by snns2c ( Bernward Kett 1995 ) 
+*********************************************************/
+
+extern int pssma1(float *in, float *out, int init);
+
+static struct {
+  int NoOfInput;    /* Number of Input Units  */
+  int NoOfOutput;   /* Number of Output Units */
+  int(* propFunc)(float *, float*, int);
+} pssma1REC = {340,3,pssma1};

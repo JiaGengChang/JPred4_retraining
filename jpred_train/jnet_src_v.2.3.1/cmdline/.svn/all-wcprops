@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/barton/!svn/ver/8531/www-jpred/sources/jnet/trunk/cmdline
+END
+cmdline.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/barton/!svn/ver/8539/www-jpred/sources/jnet/trunk/cmdline/cmdline.h
+END
+cmdline.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/barton/!svn/ver/8539/www-jpred/sources/jnet/trunk/cmdline/cmdline.ggo
+END
+cmdline.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/barton/!svn/ver/8539/www-jpred/sources/jnet/trunk/cmdline/cmdline.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/barton/!svn/ver/370/www-jpred/sources/jnet/trunk/cmdline/Makefile
+END

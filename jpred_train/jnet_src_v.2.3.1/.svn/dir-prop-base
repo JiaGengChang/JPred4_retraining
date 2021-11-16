@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 69
+jnet
+.settings
+.project
+.cproject
+.settings/org.eclipse.cdt.ui.prefs
+
+END
